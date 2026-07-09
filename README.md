@@ -7,6 +7,3 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Johnny6x2&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Johnny6x2&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
